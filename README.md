@@ -1,5 +1,9 @@
 # Course-Experiment-Code
 
+This repo aims to provide some problem-solving ideas. If you have good innovations based on this repo, you are more than welcome to communicate with me and discuss, and we can make progress together.
+
+Email: **zhengyn23@mails.tsinghua.edu.cn**
+
 ## Content
 | Category      | Course | Content | Description|
 | ----------- | ----------- | ----------- | ----------- |
