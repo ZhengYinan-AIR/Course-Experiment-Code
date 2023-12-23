@@ -14,3 +14,5 @@
 || Optimization for Industrial Process | [Experiment](https://github.com/ZhengYinan-AIR/Course-Experiment-Code/tree/main/Data%20and%20Optimization/Optimization%20for%20Industrial%20Process)|基于Jaya算法的钻进系统钻速优化(Python)
 |Embeded System | ARM-Based Embeded System|[Curriculum Design](https://github.com/ZhengYinan-AIR/Course-Experiment-Code/tree/main/Embeded%20System), [Report](https://github.com/ZhengYinan-AIR/Course-Experiment-Code/blob/main/Embeded%20System/Embeded-System.pdf)|智能病房系统(Python)
 | Object-Oriented Programming |C++ OOP |[Curriculum Design](https://github.com/ZhengYinan-AIR/Course-Experiment-Code/tree/main/Object-Oriented%20Programming)|基于链栈数据结构的计算器(C++, Qt)
+
+  The content of this repo is not complete, more content can be found in another outstanding [repo](https://github.com/ZZXF11/CUGer_Automation_repo).
