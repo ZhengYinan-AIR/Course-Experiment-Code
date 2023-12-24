@@ -1,5 +1,9 @@
 # Course-Experiment-Code
 
+<div align="center">
+  <img src="img.png" style="width: 95%;">
+</div>
+
 This repo aims to provide some problem-solving ideas. If you have good innovations based on this repo, you are more than welcome to communicate with me and discuss, and we can make progress together. If you have any questions, [ChatGPT](https://chat.openai.com/) 🤖 is all you need.
 
 💌 Email: **zhengyn23@mails.tsinghua.edu.cn**
