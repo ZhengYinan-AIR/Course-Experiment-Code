@@ -8,7 +8,7 @@ This repo aims to provide some problem-solving ideas. If you have good innovatio
 
 💌 Email: **zhengyn23@mails.tsinghua.edu.cn**
 
-If this has been helpful to you, I'd appreciate it if you could star this repo to let me know.
+If this has been helpful to you, I'd appreciate it if you could **click the star button in the upper right corner of the screen** to let me know.
 
 ## Content
 | Category      | Course | Content | Description| Comment|
