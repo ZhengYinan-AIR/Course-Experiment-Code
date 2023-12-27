@@ -28,3 +28,7 @@ If this has been helpful to you, I'd appreciate it if you could **click the star
 || Virtual Instrumentation| 💡[Curriculum Design](https://github.com/ZhengYinan-AIR/Course-Experiment-Code/tree/main/Embeded%20System/Virtual%20Instrumentation), 📃[Report](https://github.com/ZhengYinan-AIR/Course-Experiment-Code/blob/main/Embeded%20System/Virtual%20Instrumentation/%E6%8A%A5%E5%91%8A.pdf) | 智能地学虚拟仪器 | Geoscience applications, not interested
 
 ✨ The content of this repo is incomplete. For more comprehensive material, you can refer to another outstanding [repo](https://github.com/ZZXF11/CUGer_Automation_repo) by [Yuyi Zhang](https://github.com/ZZXF11). Great job!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZhengYinan-AIR/Course-Experiment-Code&type=Date)](https://star-history.com/#ZhengYinan-AIR/Course-Experiment-Code&Date)
